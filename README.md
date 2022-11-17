@@ -1,4 +1,21 @@
-# asiankitchen
+# Asian Kitchen App
+
+## [DEMO-Click Me](https://asian-kitchen-app-sertacgltkn.netlify.app)
+
+
+### Getting started
+
+1. Clone this repo
+2. Right click to index.html
+3. Click to Open with Live Server
+
+
+
+### Screenshots
+
+![1](https://user-images.githubusercontent.com/96946069/202423526-fbe2f469-a441-4a3e-bc50-32eed36d58bd.jpg)
+
+
 
 
 <h1 align="center">Hi 👋, I'm Sertaç  </h1>
